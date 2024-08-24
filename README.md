@@ -1,4 +1,4 @@
-[MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
 <h1 align="center">Hi 👋, I'm Siddharth Revankar</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
