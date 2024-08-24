@@ -1,5 +1,5 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
-<h1 align="center">Hi 👋, I'm Siddharth 🐱</h1>
+<h1 align="center">Hi 👋, I'm Siddharth 🚀</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
 - 🔭 I’m currently working on [PostHoppin](https://github.com/sid-revankar/Post-Hoppin)
