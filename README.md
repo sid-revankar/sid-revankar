@@ -8,6 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sid-revankar](https://github.com/sid-revankar)
 
+- **i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddharth-revankar-40a3242b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-revankar-40a3242b7" height="30" width="40" /></a>
