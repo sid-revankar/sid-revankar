@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on [PostHoppin](https://github.com/sid-revankar/Post-Hoppin)
 
-- 🌱 I’m currently learning **Typer, DSA, Django**
-
 - 👨‍💻 All of my projects are available at [https://github.com/sid-revankar](https://github.com/sid-revankar)
 
 <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzIxa3J5dDM5MDFhdnh3dHJpaW1hZm5zMXc0cDNuaHExMXJ5OXd6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vs5y14mkgmZOVukgmE/giphy.webp">
