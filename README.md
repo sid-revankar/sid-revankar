@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth Revankar</h1>
 <h3 align="center">A passionate python developer from India 🚀</h3>
 
-- 🔭 I’m currently working on [PostHoppin](https://github.com/sid-revankar/Post-Hoppin)
+- 🔭 Checkout my new Project [PostHoppin](https://github.com/sid-revankar/Post-Hoppin)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sid-revankar](https://github.com/sid-revankar)
 
