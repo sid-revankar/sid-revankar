@@ -1,10 +1,10 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
 <h1 align="center">Hi 👋, I'm Siddharth Revankar</h1>
-<h3 align="center">A passionate python developer from India 🚀</h3>
+<h3 align="center">A CSE graduate exploring the world of data analytics & engineering 🚀. I love building cool stuff—from web apps and Python automation to data pipelines.</h3>
 
-- 🔭 Checkout my new Project [PostHoppin](https://github.com/sid-revankar/Post-Hoppin)
+- 🔍 Latest project: [WeatherStream: Real-Time Data Pipeline & Dashboard](https://github.com/sid-revankar/weatherstream-pipeline) – because weather data deserves some analytics too! ⛅📊
 
-- 👨‍💻 All of my projects are available at [https://github.com/sid-revankar](https://github.com/sid-revankar)
+- Always up for learning & experimenting! 😃
 
 <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzIxa3J5dDM5MDFhdnh3dHJpaW1hZm5zMXc0cDNuaHExMXJ5OXd6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vs5y14mkgmZOVukgmE/giphy.webp">
 
