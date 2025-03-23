@@ -4,7 +4,7 @@
 
 - 🔍 Latest project: [WeatherStream: Real-Time Data Pipeline & Dashboard](https://github.com/sid-revankar/weatherstream-pipeline) – because weather data deserves some analytics too! ⛅📊
 
-- Always up for learning & experimenting! 😃
+- Always up for learning & building! 😃
 
 <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzIxa3J5dDM5MDFhdnh3dHJpaW1hZm5zMXc0cDNuaHExMXJ5OXd6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vs5y14mkgmZOVukgmE/giphy.webp">
 
